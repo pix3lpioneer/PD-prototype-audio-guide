@@ -16,11 +16,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       	#fafafa;
-$background-hr:		#383838;
-$background-color: 	#222222;
-$background-darker: #1B1B1B;
-$brand-color:	   	#43A047;
+$text-color:       	#000000;
+$background-hr:		#000000;
+$background-color: 	#ffffff;
+$background-darker: #000000;
+$brand-color:	   	#1002af;
 $anchor-hover-color:	lighten($brand-color, 30%);
 
 $player-now-playing-size:   13px;
@@ -34,7 +34,7 @@ $player-play-color:		lighten($brand-color, 5%);
 $player-progress-height: 10px;
 
 $tile-bgcolor:	   $brand-color;
-$tile-color:	   #fafafa;
+$tile-color:	   darken($brand-color, 40%);
 $tile-size:		   56px;
 $tile-size-large:  64px;
 $tile-border-radius:	2px;
